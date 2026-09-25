@@ -4,6 +4,13 @@
 
 ## [Unreleased]
 
+## [0.1.1]
+
+### Fixed
+
+- Review/star CTA now links to this plugin's own Marketplace
+  reviews page instead of the vendor's generic plugin list.
+
 ## [0.1.0]
 
 ### Added
@@ -15,5 +22,6 @@
   the argument's static skeleton parses as a well-formed filter before
   flagging.
 
-[Unreleased]: https://github.com/GapHunterLabs/ldap-injection-sink-companion/compare/0.1.0...HEAD
+[Unreleased]: https://github.com/GapHunterLabs/ldap-injection-sink-companion/compare/0.1.1...HEAD
+[0.1.1]: https://github.com/GapHunterLabs/ldap-injection-sink-companion/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/GapHunterLabs/ldap-injection-sink-companion/commits/0.1.0
