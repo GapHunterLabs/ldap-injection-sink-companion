@@ -1,0 +1,9 @@
+<html>
+<body>
+Reports a <code>DirContext.search(...)</code> call whose filter argument is built from an HTTP endpoint parameter.
+<!-- tooltip end -->
+<p>The raw input becomes part of the LDAP filter text that the directory server parses, so an attacker can change the
+query (CWE-90). Use a parameterized filter (<code>search(name, filterExpr, filterArgs, controls)</code>) or escape the
+value as RFC 4515 describes.</p>
+</body>
+</html>
